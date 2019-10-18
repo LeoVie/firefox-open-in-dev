@@ -1,0 +1,42 @@
+Manifest-Version: 1.0
+
+Name: manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: bzn2HvGcmwPyvncebwLP2OPu+bQ=
+SHA256-Digest: pI7VG4QoXFQoT4t6N6NQQ1T3QjRPALLHtZq3CTkwQ5s=
+
+Name: popup/open-in-dev.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: zSBTENUe2PluNUBWF2fhkkAJYXw=
+SHA256-Digest: 1ed4nlN2nBadWgyn1I/owsfHxeERGS8OLNu/FHbirz4=
+
+Name: popup/open-in-dev.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 76Lk7UwAohxKo9tJmBTS0sHSutk=
+SHA256-Digest: PGRaIstsacmCKuzfzPvlr2e13gK8SevVcq4tPPi2DaI=
+
+Name: icons/border-48.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: rX041WQ24t3YY5xmh4AG79SO4xc=
+SHA256-Digest: c3clkz319uDlIRI5u7s1AEkzT1W53ILVBkbsjs0fDUg=
+
+Name: icons/engineer.svg
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Tw+2okTZdatju+v1ydBHeuO7o9M=
+SHA256-Digest: disTQqJB5Y3ygtapks0SBS350TPUniLUUdJ0Xm5w0i4=
+
+Name: icons/beasts-32.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: OQcSIfeEY0uKrKoZaHZ6IH33rSs=
+SHA256-Digest: mI8mezaxfUL2dELglggPc92DxrvN2NRQfbwhE2+k3x8=
+
+Name: settings/options.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: NFcqZvmXhJJHjSWZ2Uy3iOe73BA=
+SHA256-Digest: jGeK19wfowXdbCMMWSRYvOg2Qfh8f6DkWE/pqdiT/+M=
+
+Name: settings/options.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 8kMJ/wCM8A3jWlExM+xVeh27os4=
+SHA256-Digest: QMpCNH0q8SwFd+IYQYQnEc7y3+6O+BEodkyC1PM4Dmw=
+
